@@ -1,10 +1,13 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
-It is kind of a failsafe 
+A-It is kind of a failsafe 
 
 How can you use the staging area to make sure you have one commit per logical change?
-Running "git diff" withou any commit id and the cheking the result
+A-Running "git diff" withou any commit id and the cheking the result
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
-To implement a new feature; Fix small bugs 
+A-To implement a new feature; Fix small bugs 
+
+How do the diagrams help you visualize the branch structure?
+A- An image worth a thousand words
