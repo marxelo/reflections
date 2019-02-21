@@ -11,3 +11,6 @@ A-To implement a new feature; Fix small bugs
 
 How do the diagrams help you visualize the branch structure?
 A- An image worth a thousand words
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A - The 2 branches are merged into checked out branch. To show it has two parents
