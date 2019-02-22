@@ -14,3 +14,13 @@ A- An image worth a thousand words
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 A - The 2 branches are merged into checked out branch. To show it has two parents
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Git's automatic merging
+Pros: Much much faster and easier
+Cons: You have to rely and trust on git
+
+Do merges manually 
+Pros: You can double check and/or check with other person to altered the code
+Cons: Time consuming, prone to error
