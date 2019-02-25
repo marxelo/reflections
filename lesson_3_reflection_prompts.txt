@@ -14,3 +14,6 @@ A - You can do some work off-line (diff, for example)
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 A - There is some ways of doing this
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A - To test new features or fix withou compromising whats is working
