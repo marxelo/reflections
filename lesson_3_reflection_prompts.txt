@@ -10,4 +10,7 @@ Clone - clone a repository onto your computer
 branch - clone a branch with another name
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
-You can do some work off-line (diff, for example)
+A - You can do some work off-line (diff, for example)
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A - There is some ways of doing this
